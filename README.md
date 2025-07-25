@@ -19,6 +19,11 @@ Com os valores do IPCA sob controle, a COPOM, gradualmente, reduz a SELIC para r
 **Incertezas fiscais - 2024 aos dias de hoje.**
 O novo pacote fiscal anunciado pelo vigente governo causou clima de incerteza no mercado. Investidores, receosos sobre os rumos econômicos passaram a vender ativos em Real para comprar Dólar. A alta procura pela moeda americana, também sob a lógica de oferta e demanda, disparou o câmbio. Essa alta gerou uma nova pressão inflacionária, forçando o BACEN a elevar a Selic novamente, não somente para conter a inflação ocasionada pela desvalorização do Real, mas também para manter o país atrativo aos investidores e estancar a fuga de capitais.
 
+Conclusões:
+1. O Câmbio como Termômetro de Risco: O câmbio é o principal indicativo de risco de um país. Suas altas e baixas são marcadas por momentos de sucesso econômico ou incertezas, como a pandemia e as anunciadas novas políticas fiscais. Seu movimento deve ser monitorado e controlado com a finalidade de incentivar a atração de investidores para o mercado brasileiro.
+2.A Forte Interdependência dos Indicadores: O dashboard evidencia que nenhum indicador se move sozinho. As decisões quanto à taxa básica de juros são pautadas, em essência, pelos movimentos do IPCA. Bem como as decisões governamentais em relação às políticas fiscais e econômicas influenciam o câmbio, que pressiona a inflação, forçando o Banco Central à agir. Entender essa “dança” é fundamental para o sucesso de políticas econômicas.
+3.A Importância das Expectativas: A política monetária não reage apenas aos dados do passado, mas principalmente às expectativas sobre o futuro. A subida da Selic no final de 2024, por exemplo, é uma ação para "ancorar" as expectativas de inflação futura, que foram contaminadas pela incerteza fiscal. Isto mostra que, para uma empresa, não basta olhar para os números de hoje; é preciso entender o sentimento e a direção para onde o mercado acredita que a economia está a ir.
+
 Metodologia
 1. Coleta e Limpeza: Os dados foram baixados do SGS.
 2. Transformação: Utilizei o Power Query para transformar a série diária do Dólar em médias mensais, garantindo a consistência com os outros indicadores.
