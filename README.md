@@ -20,11 +20,9 @@ Com os valores do IPCA sob controle, a COPOM, gradualmente, reduz a SELIC para r
 O novo pacote fiscal anunciado pelo vigente governo causou clima de incerteza no mercado. Investidores, receosos sobre os rumos econômicos passaram a vender ativos em Real para comprar Dólar. A alta procura pela moeda americana, também sob a lógica de oferta e demanda, disparou o câmbio. Essa alta gerou uma nova pressão inflacionária, forçando o BACEN a elevar a Selic novamente, não somente para conter a inflação ocasionada pela desvalorização do Real, mas também para manter o país atrativo aos investidores e estancar a fuga de capitais.
 
 Metodologia
-Coleta e Limpeza: Os dados foram baixados do SGS.
-
-Transformação: Utilizei o Power Query para transformar a série diária do Dólar em médias mensais, garantindo a consistência com os outros indicadores.
-
-Visualização: O dashboard foi inteiramente construído no Excel. A interatividade dos botões de filtro por ano foi implementada com macros em VBA.
+1. Coleta e Limpeza: Os dados foram baixados do SGS.
+2. Transformação: Utilizei o Power Query para transformar a série diária do Dólar em médias mensais, garantindo a consistência com os outros indicadores.
+3. Visualização: O dashboard foi inteiramente construído no Excel. A interatividade dos botões de filtro por ano foi implementada com macros em VBA.
 
 Como Usar
 1. Faça o download do ficheiro .xlsx deste repositório.
