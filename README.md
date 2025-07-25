@@ -1,6 +1,9 @@
 # Brazil-Macroeconomic-Report
 Dashboard interativo em Excel que analisa os principais indicadores macroeconômicos do Brasil (2020-2025).
 <img width="1874" height="654" alt="image" src="https://github.com/user-attachments/assets/4d9f0aa0-e7bb-4cfb-967b-7be2be4cf836" />
+
+Neste projeto, estruturei dados de importantes indicadores como a SELIC, IPCA e Câmbio com a finalidade de compreender o comportamento economico nos últimos 5 anos. Olhar para o passado, entender seus fatos e seus porquês é a chave de localizar onde a sociedade se situa economicamente em dias atuais e, dessa forma, planejar-se para o que estiver adiante.
+
 **Concessão de crédito: 2020**
 Com a finalidade de impedir a possível recessão econômica que poderia suceder a crise pandêmica, o Banco Central, através da COPOM, reduziu a taxa básica de juros, a SELIC, à sua mínima histórica (2% a.a). A medida tornou o crédito massivamente mais barato, numa aposta de que o custo de oportunidade para que as empresas se mantivessem ativas fosse inferior ao risco do cenário econômico vigente. 
 
