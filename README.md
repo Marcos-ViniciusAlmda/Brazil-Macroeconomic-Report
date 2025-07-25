@@ -21,7 +21,9 @@ O novo pacote fiscal anunciado pelo vigente governo causou clima de incerteza no
 
 Metodologia
 Coleta e Limpeza: Os dados foram baixados do SGS.
+
 Transformação: Utilizei o Power Query para transformar a série diária do Dólar em médias mensais, garantindo a consistência com os outros indicadores.
+
 Visualização: O dashboard foi inteiramente construído no Excel. A interatividade dos botões de filtro por ano foi implementada com macros em VBA.
 
 Como Usar
